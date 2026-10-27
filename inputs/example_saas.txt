@@ -1,0 +1,2 @@
+A B2B SaaS that helps small retailers forecast inventory using sales history and weather data.
+Target customers are independent shop owners. Subscription revenue model at $49/month.

@@ -1,0 +1,16 @@
+{
+  "free_text": "Describe your idea in your own words...",
+  "questionnaire": {
+    "title": "",
+    "target_customer": "",
+    "problem": "",
+    "solution": "",
+    "revenue_model": "",
+    "price_point": null,
+    "currency": "USD",
+    "location": "",
+    "budget": null,
+    "team": [{"name": "", "role": "", "skills": []}],
+    "stage": "idea"
+  }
+}

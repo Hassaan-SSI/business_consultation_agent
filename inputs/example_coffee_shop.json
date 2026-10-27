@@ -1,0 +1,16 @@
+{
+  "free_text": "I want to open a neighborhood specialty coffee shop with subscription refills for regulars.",
+  "questionnaire": {
+    "title": "Neighborhood Roast",
+    "target_customer": "Urban professionals and students",
+    "problem": "Few convenient specialty coffee options nearby",
+    "solution": "High-quality espresso with fast service and subscriptions",
+    "revenue_model": "Beverage sales and monthly subscription",
+    "price_point": 6.0,
+    "currency": "USD",
+    "location": "Austin, TX, USA",
+    "budget": 80000,
+    "team": [{"name": "Alex", "role": "Founder", "skills": ["operations"]}],
+    "stage": "idea"
+  }
+}
